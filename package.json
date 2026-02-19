@@ -1,0 +1,12 @@
+﻿{
+  "name": "unified-typescript-squad-platform",
+  "private": true,
+  "workspaces": [
+    "shared-types",
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspaces"
+  }
+}
