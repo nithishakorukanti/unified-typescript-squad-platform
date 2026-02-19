@@ -5,7 +5,7 @@ Fullstack POC for a mid-level TypeScript specialist role using a unified ecosyst
 - Backend: NestJS-style TypeScript API with DTO validation and real-time gateway
 - Shared Contracts: common DTOs and domain types consumed by both frontend and backend
 
-## Why this POC matches ClearSky
+## Why this POC is a strong fullstack showcase
 
 - Demonstrates end-to-end type safety via a shared type library
 - Shows state management and efficient data flow (Zustand + RTK Query)
@@ -40,3 +40,4 @@ npm run dev --workspace frontend
 - Real-time status updates from backend events
 - Shared DTOs to avoid drift between UI and API
 - Extendable modular structure for squad delivery
+
